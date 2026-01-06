@@ -4,8 +4,6 @@
 
 An experienced software developer with a strong background in the telecommunications industry. Passionate about building scalable web and mobile applications, clean APIs, and modern user experiences.
 
-![Profile views](https://komarev.com/ghpvc/?username=daqar12&label=Profile%20views&color=0e75b6&style=flat)
-
 ---
 
 ## 👨‍💻 About Me
@@ -27,11 +25,13 @@ An experienced software developer with a strong background in the telecommunicat
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40"/>
 </a>
 <a href="https://www.instagram.com/daqar19/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40"/>
 </a>
+
 <a href="https://www.youtube.com/daqar19" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" width="55"/>
 </a>
+
 <a href="https://daqar.online" target="_blank">
   <img src="https://img.icons8.com/color/48/domain.png" width="40"/>
 </a>
@@ -108,5 +108,3 @@ An experienced software developer with a strong background in the telecommunicat
 
 ---
 
-## 📊 GitHub Stats
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=daqar12&show_icons=true&theme=dark)
