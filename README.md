@@ -107,5 +107,4 @@ An experienced software developer with a strong background in the telecommunicat
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 </p>
 
----
 
