@@ -36,7 +36,7 @@ An experienced software developer with a strong background in the telecommunicat
 <a href="https://daqar.online" target="_blank">
   <img src="https://img.icons8.com/color/48/domain.png" width="40"/>
 </a>
-<a href="https://qaafict.com" target="_blank">
+<a href="https://www.qaafict.com" target="_blank">
   <img src="https://img.icons8.com/color/48/company.png" width="40"/>
 </a>
 </p>
