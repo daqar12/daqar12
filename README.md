@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mohamed Dahir Abdullahi (Daqar)
 
-### FullStack Developer & Mobile App Developer | Telecommunications | Founder @ Qaaf ICT Solutions
+### FullStack Developer & Mobile App Developer | Telecommunications | Founder of Qaaf ICT Solutions
 
 An experienced software developer with a strong background in the telecommunications industry. Passionate about building scalable web and mobile applications, clean APIs, and modern user experiences.
 
