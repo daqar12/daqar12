@@ -29,8 +29,9 @@ An experienced software developer with a strong background in the telecommunicat
 </a>
 
 <a href="https://www.youtube.com/daqar19" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" width="55"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="40"/>
 </a>
+
 
 <a href="https://daqar.online" target="_blank">
   <img src="https://img.icons8.com/color/48/domain.png" width="40"/>
