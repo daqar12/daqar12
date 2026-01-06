@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mohamed Dahir Abdullahi
+# Hi 👋, I'm Mohamed Dahir Abdullahi (Daqar)
 
 ### FullStack Developer & Mobile App Developer | Telecommunications | Founder @ Qaaf ICT Solutions
 
@@ -27,7 +27,7 @@ An experienced software developer with a strong background in the telecommunicat
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40"/>
 </a>
 <a href="https://www.instagram.com/daqar19/" target="_blank">
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png)" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/>
 </a>
 <a href="https://www.youtube.com/daqar19" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40"/>
@@ -49,16 +49,20 @@ An experienced software developer with a strong background in the telecommunicat
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
 </p>
 
-### 🔹 Frontend (Structure • Design • Behavior)
+### 🔹 Frontend 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
 </p>
 
-### 🔹 Frontend Frameworks
+### 🔹 Frontend Frameworks and library
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
@@ -93,6 +97,7 @@ An experienced software developer with a strong background in the telecommunicat
 ### 🔹 Mobile App Development
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
 </p>
 
 ### 🔹 Version Control & Collaboration
@@ -104,4 +109,4 @@ An experienced software developer with a strong background in the telecommunicat
 ---
 
 ## 📊 GitHub Stats
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=daqar12&show_icons=true&theme=dark)
