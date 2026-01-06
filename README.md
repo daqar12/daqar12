@@ -28,7 +28,7 @@ An experienced software developer with a strong background in the telecommunicat
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40"/>
 </a>
 
-<a href="https://www.youtube.com/daqar19" target="_blank">
+<a href="https://www.youtube.com/@daqar19" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="40"/>
 </a>
 
